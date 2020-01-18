@@ -20,6 +20,7 @@ After you clone this repository:
 * update purescript packages by running spago2nix as per the readme
 * change the index.html title
 * change the source code
+* change this readme
 
 ## Installing Node packages
 
