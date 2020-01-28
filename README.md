@@ -17,7 +17,7 @@ After you clone this repository:
 * change the default.nix pname
 * change the default.nix meta fields
 * update node packages by running node2nix as per the readme
-* update purescript packages by running spago2nix as per the readme
+* update purescript packages by updating packages.dhall and running spago2nix as per the readme
 * change the index.html title
 * change the source code
 * change this readme
