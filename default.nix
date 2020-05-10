@@ -112,7 +112,7 @@ in pkgs.stdenv.mkDerivation {
   meta = with pkgs.stdenv.lib; {
     description = "A starter template for building a frontend with Nix, PureScript, and Concur";
     homepage = https://github.com/JustinLovinger/nix-purescript-concur-frontend-starter;
-    license = licences.mit;
+    license = licenses.mit;
     maintainers = [ ];
   };
 }
